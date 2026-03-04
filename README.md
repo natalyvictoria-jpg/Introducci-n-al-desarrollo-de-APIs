@@ -16,3 +16,7 @@
 ⚙️ **Lenguaje:** Python  
 🧠 **Propósito:** Desarrollar aplicaciones web utilizando APIs diferentes, aplicando los conocimientos adquiridos en la unidad 3 y comprendiendo su funcionamiento mediante su implementación en Python.  
 👨‍🏫 **Docente:** Anastacio Rodriguez Garcia
+
+
+# 📸 Evidencia del Ejercicio 
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/API.jpeg)
