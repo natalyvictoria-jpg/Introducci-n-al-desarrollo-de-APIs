@@ -19,4 +19,4 @@
 
 
 # 📸 Evidencia del Ejercicio 
-![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/API.jpeg)
+![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/api.jpeg)
