@@ -19,4 +19,4 @@
 
 
 # 📸 Evidencia del Ejercicio 
-![pruebas](https://github.com/natalyvictoria-jpg/Apis/raw/main/api.jpeg)
+![pruebas](https://github.com/natalyvictoria-jpg/Introducci-n-al-desarrollo-de-APIs/raw/main/api.jpeg)
