@@ -22,3 +22,7 @@
 ![pruebas](https://github.com/natalyvictoria-jpg/Introducci-n-al-desarrollo-de-APIs/raw/main/api.jpeg)
 
 ![pruebas](https://github.com/natalyvictoria-jpg/Introducci-n-al-desarrollo-de-APIs/raw/main/apis.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/Introducci-n-al-desarrollo-de-APIs/raw/main/json.jpeg)
+
+![pruebas](https://github.com/natalyvictoria-jpg/Introducci-n-al-desarrollo-de-APIs/raw/main/root.jpeg)
